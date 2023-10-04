@@ -3,7 +3,7 @@ name: pa02_ImageLib
 on: [push]
 
 env:
-  EXE_NAME: pa02_ImageLib
+  EXE_NAME: ImageLib
 
 jobs:
   build:
